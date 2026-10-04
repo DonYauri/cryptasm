@@ -1,0 +1,4 @@
+*.o
+cryptasm/cryptasm
+nutridex/build/
+nutridex/.dart_tool/
